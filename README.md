@@ -8,6 +8,8 @@
 [![Aureum Auditor](https://img.shields.io/badge/Live_Project-Aureum_Auditor-F59E0B?style=for-the-badge&logo=vercel&logoColor=black)](https://aureum-auditor.vercel.app)
 [![WhatsApp Demo](https://img.shields.io/badge/Live_Demo-Dante_AI_Closer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://aureum-auditor.vercel.app/demo/conssur)
 
+</div>
+
 ---
 
 ```typescript
@@ -25,19 +27,18 @@ const engineer = {
 };
 ```
 
-</div>
-
 ---
 
 ## 🏛️ Flagship Production Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="assets/aureum_auditor_preview.png" alt="Aureum Funnel Auditor Preview" width="100%" style="border-radius: 8px; margin-bottom: 8px;" />
       <h3 align="center">🔍 Aureum Funnel Auditor</h3>
       <p align="center">
         <b>Real-Time Funnel Diagnostics & CRO Architecture</b><br>
-        A high-velocity Single Page Application (SPA) designed to diagnose commercial bottlenecks, attribution leaks, and financial drop-offs in sales funnels in under 2 minutes.
+        High-velocity SPA designed to diagnose commercial bottlenecks, attribution leaks, and financial drop-offs in sales funnels in under 2 minutes.
       </p>
       <p align="center">
         <code>React 19</code> • <code>TypeScript</code> • <code>Vite</code> • <code>TailwindCSS</code> • <code>Framer Motion</code>
@@ -46,17 +47,48 @@ const engineer = {
         <a href="https://aureum-auditor.vercel.app"><b>🚀 Explore Live App</b></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="assets/dante_closer_preview.png" alt="Dante AI Closer Engine Preview" width="100%" style="border-radius: 8px; margin-bottom: 8px;" />
       <h3 align="center">🤖 Dante AI Closer Engine</h3>
       <p align="center">
         <b>Autonomous Multi-Tenant WhatsApp Sales Agent</b><br>
-        Production AI agent trained on complex enterprise pricing, freight logic, and material specs. Features sub-second streaming inference and conversational memory.
+        Production AI agent trained on complex enterprise pricing, freight logic, and material specs. Features sub-second streaming inference.
       </p>
       <p align="center">
         <code>Groq LLMs (Llama 3.3 70B)</code> • <code>Node.js</code> • <code>Serverless APIs</code> • <code>n8n</code>
       </p>
       <p align="center">
         <a href="https://aureum-auditor.vercel.app/demo/conssur"><b>📲 Test Interactive Simulator</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/mediabuyer_preview.png" alt="MediaBuyer.io Preview" width="100%" style="border-radius: 8px; margin-bottom: 8px;" />
+      <h3 align="center">⚡ MediaBuyer.io</h3>
+      <p align="center">
+        <b>Autonomous Meta Ads Dashboard & AI Creative Studio</b><br>
+        Real-time autopilot suite for media buyers. Live Meta Insights streaming, budget scaling triggers, and multi-angle photorealistic AI ad generation with multi-tier billing.
+      </p>
+      <p align="center">
+        <code>Next.js 16</code> • <code>React 19</code> • <code>Lemon Squeezy</code> • <code>SSE Streams</code> • <code>AI Generative Vision</code>
+      </p>
+      <p align="center">
+        <b>📊 High-Velocity SaaS Architecture</b>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/aimastery_preview.png" alt="AI Mastery Blueprint Preview" width="100%" style="border-radius: 8px; margin-bottom: 8px;" />
+      <h3 align="center">🚀 AI Mastery Blueprint Platform</h3>
+      <p align="center">
+        <b>Full-Stack Info-SaaS & AI Student Copilot</b><br>
+        Complete educational academy with 24/7 AI tutor copilot, video classroom with live note-taking, Duolingo-style streak gamification, multi-tier affiliate portal, and PayPal/Stripe checkouts.
+      </p>
+      <p align="center">
+        <code>Next.js 14</code> • <code>Prisma ORM</code> • <code>PostgreSQL</code> • <code>PayPal SDK</code> • <code>AI Copilot</code>
+      </p>
+      <p align="center">
+        <b>🎓 Enterprise Academy Stack</b>
       </p>
     </td>
   </tr>
