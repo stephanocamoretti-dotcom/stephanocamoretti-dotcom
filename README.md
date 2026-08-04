@@ -44,9 +44,9 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🎓 <b>Growth Automation Architect & Full-Stack Engineer</b></li>
-        <li>🤖 <b>Autonomous AI Systems:</b> Architecting LLM-driven sales closers & workflow engines</li>
-        <li>⚡ <b>High-Performance SPAs:</b> React 19, Next.js 16, TypeScript, Vite & TailwindCSS</li>
+        <li>🎓 <b>Growth Automation Architect & Full-Stack AI Engineer</b></li>
+        <li>🤖 <b>Autonomous AI Systems & Prompt Engineering:</b> Architecting enterprise sales closers and autonomous workflows using Gemini 3.1 Pro, GPT-4o/Mini, Claude 3.5/3.7 Sonnet, DeepSeek-V3/R1 & Qwen Plus</li>
+        <li>⚡ <b>High-Performance SPAs & Mobile-Ready Web:</b> React 19, Next.js 16, TypeScript, Vite & TailwindCSS</li>
         <li>📈 <b>Growth Engineering:</b> Server-side attribution (Meta CAPI, GA4, GTM) & funnel optimization</li>
         <li>🚀 <b>Founder @ Aureum Labs:</b> Engineering the next generation of AI-automated sales infrastructure</li>
         <li>📍 <b>Location:</b> Lima, Peru (GMT-5) / Remote worldwide</li>
@@ -91,14 +91,30 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Backend, AI & Databases</b></summary>
+<summary><b>🧠 Large Language Models & AI Engineering</b></summary>
+<br>
+
+[![Gemini 3.1 Pro](https://img.shields.io/badge/Gemini_3.1_Pro_%26_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![GPT-4o & GPT-4o Mini](https://img.shields.io/badge/GPT--4o_%2F_GPT--4o_Mini-00A67E?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Claude 3.5 & 3.7 Sonnet](https://img.shields.io/badge/Claude_3.5_%2F_3.7_Sonnet-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![DeepSeek V3 & R1](https://img.shields.io/badge/DeepSeek_V3_%2F_R1_Reasoning-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![Qwen 2.5 & Qwen v1 Plus](https://img.shields.io/badge/Qwen_2.5_%2F_v1_Plus-6246EA?style=flat-square&logo=alibabacloud&logoColor=white)](https://qwenlm.github.io/)
+[![Llama 3.3 70B](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square&logo=meta&logoColor=white)](https://llama.meta.com/)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_%26_CoT-FFB800?style=flat-square&logo=circuitverse&logoColor=black)](https://www.promptingguide.ai/)
+[![Agentic Orchestration](https://img.shields.io/badge/Agentic_Orchestration_%26_Tools-FF4500?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://n8n.io/)
+[![Ollama Local LLMs](https://img.shields.io/badge/Ollama_Local_Inference-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend, Cloud & Databases</b></summary>
 <br>
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Groq LLMs](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat-square&logo=openai&logoColor=white)](https://groq.com/)
+[![Groq Fast Inference](https://img.shields.io/badge/Groq_Inference-F55036?style=flat-square&logo=groq&logoColor=white)](https://groq.com/)
 [![n8n](https://img.shields.io/badge/n8n_Automations-FF6584?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 
 </details>
