@@ -213,8 +213,13 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephanocamoretti-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanocamoretti-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=e2e8f0" height="155" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=stephanocamoretti-dotcom&theme=dark&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e2e8f0&dates=718096&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephanocamoretti-dotcom&theme=tokyo-night&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ffffff&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
