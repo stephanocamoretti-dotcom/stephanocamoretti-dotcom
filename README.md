@@ -97,8 +97,8 @@ const engineer = {
 ## 📊 GitHub Analytics & Code Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephanocamoretti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1317&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanocamoretti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1317&title_color=f59e0b&text_color=e2e8f0" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stephanocamoretti-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1317&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanocamoretti-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1317&title_color=f59e0b&text_color=e2e8f0" height="150" alt="Top Languages" />
 </div>
 
 ---
