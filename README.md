@@ -16,8 +16,11 @@
   <a href="https://www.linkedin.com/in/stephano19">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://stephano-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🤖_Portfolio_IA-Dante_Executive_AI-F59E0B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Interactivo con IA" />
+  </a>
   <a href="https://aureum-auditor.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Project-Aureum_Auditor-F59E0B?style=for-the-badge&logo=vercel&logoColor=black" alt="Aureum Auditor" />
+    <img src="https://img.shields.io/badge/Live_Project-Aureum_Auditor-d97706?style=for-the-badge&logo=vercel&logoColor=black" alt="Aureum Auditor" />
   </a>
   <a href="https://aureum-auditor.vercel.app/demo/conssur">
     <img src="https://img.shields.io/badge/Live_Demo-Dante_AI_Closer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Demo" />
@@ -193,6 +196,21 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <h3>🤖 AI Portfolio — Stephano Camoretti | Interactive Business Intelligence Hub</h3>
+      <p>
+        <b>Live AI-Powered Portfolio with Dante Executive AI — Real Groq LLaMA 3.3 Inference</b><br>
+        A next-generation interactive portfolio that acts as a 24/7 lead qualification engine. Features a live AI agent (Dante Executive AI) powered by Groq LLaMA 3.3 70B with real-time responses, a 32-node n8n pipeline architecture explorer, an interactive ROI calculator, dual CTO/Business view modes, and full mobile-first responsive design with <code>100dvh</code> dynamic viewport. Dante answers pricing questions, explains technical architecture, and routes qualified prospects directly to WhatsApp — all autonomously.
+      </p>
+      <p>
+        <code>React 19</code> • <code>TypeScript</code> • <code>Vite 8</code> • <code>Groq API (LLaMA 3.3 70B)</code> • <code>TailwindCSS</code> • <code>Custom Markdown Renderer</code> • <code>100dvh Mobile Layout</code>
+      </p>
+      <p>
+        <a href="https://stephano-portfolio.vercel.app"><b>🚀 Experience Live Portfolio + Dante AI</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🌿 Aureum Labs — High-Converting E-Commerce Landing</h3>
       <p>
         <b>Conversion Rate Optimized Direct-to-Consumer Brand Store</b><br>
@@ -228,7 +246,7 @@
 
 Whether you're looking to scale an enterprise sales funnel with AI closers, build a full-stack SaaS platform from zero to one, or deploy server-side tracking infrastructure:
 
-* 🌐 **Live Ecosystem:** [Aureum Auditor](https://aureum-auditor.vercel.app) • [MediaBuyer.io](https://mediabuyer-advanced.vercel.app/) • [AI Mastery](https://ai-mastery-blueprint.vercel.app/) • [Aureum Supplements](https://aureum-labs.vercel.app/)
+* 🌐 **Live Ecosystem:** [**AI Portfolio + Dante AI**](https://stephano-portfolio.vercel.app) • [Aureum Auditor](https://aureum-auditor.vercel.app) • [MediaBuyer.io](https://mediabuyer-advanced.vercel.app/) • [AI Mastery](https://ai-mastery-blueprint.vercel.app/) • [Aureum Supplements](https://aureum-labs.vercel.app/)
 * 💼 **LinkedIn:** [/in/stephano19](https://www.linkedin.com/in/stephano19)
 * 📩 **Email:** [stephanocamoretti@gmail.com](mailto:stephanocamoretti@gmail.com)
 
