@@ -34,6 +34,9 @@
   <a href="https://aureum-labs.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Store-Aureum_Supplements-10B981?style=for-the-badge&logo=shopify&logoColor=white" alt="Aureum Labs Landing" />
   </a>
+  <a href="https://apex-metabolic-os.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Mobile-Apex_Metabolic_OS-EC4899?style=for-the-badge&logo=vercel&logoColor=black" alt="Apex Metabolic OS" />
+  </a>
 
 </div>
 
@@ -191,6 +194,34 @@
       </p>
       <p>
         <a href="https://ai-mastery-blueprint.vercel.app/"><b>🎓 Open Academy Demo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Aureum Operations Dashboard</h3>
+      <p>
+        <b>Real-Time Operations & WebSockets Metrics Control Panel</b><br>
+        Administrative operations panel for monitoring client CAPI events, lead qualification rates, and Dante AI closer logs. Built for speed and security, featuring sub-second server-side state synchronization.
+      </p>
+      <p>
+        <code>Next.js 16</code> • <code>TypeScript</code> • <code>Prisma ORM</code> • <code>PostgreSQL</code> • <code>Pusher WebSockets</code>
+      </p>
+      <p>
+        <span style="color: #6b7280; font-weight: bold;">🔒 Private Repository (Auth Protected)</span>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Apex Metabolic OS</h3>
+      <p>
+        <b>Cross-Platform Patient Management SaaS & AI Coaching Engine</b><br>
+        Full clinical and metabolic health optimization app (Web & Android). Features real-time biometric progress charts, Yape/Plin checkout integrations via Culqi, and an AI coaching copilot with streaming inference.
+      </p>
+      <p>
+        <code>React</code> • <code>Express.js</code> • <code>Capacitor (Android)</code> • <code>Culqi Node SDK</code> • <code>Chart.js</code> • <code>Groq API</code>
+      </p>
+      <p>
+        <a href="https://apex-metabolic-os.vercel.app/"><b>🚀 Launch Mobile Web App</b></a>
       </p>
     </td>
   </tr>
