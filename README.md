@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Live_Store-Aureum_Supplements-10B981?style=for-the-badge&logo=shopify&logoColor=white" alt="Aureum Labs Landing" />
   </a>
   <a href="https://apex-metabolic-os.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Mobile-Apex_Metabolic_OS-EC4899?style=for-the-badge&logo=vercel&logoColor=black" alt="Apex Metabolic OS" />
+    <img src="https://img.shields.io/badge/Live_Mobile-Apex_Metabolic_OS-EC4899?style=for-the-badge&logo=android&logoColor=white" alt="Apex Metabolic OS" />
   </a>
 
 </div>
